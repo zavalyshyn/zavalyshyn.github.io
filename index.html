@@ -4,6 +4,14 @@ title: Igor Zavalyshyn
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Igor Zavalyshyn</h1>
-	<p>I'm doing my PhD at Instituto Superior Técnico in lovely and sunny Lisbon, Portugal. </p> 
-	<p>At this website you can read more <a href="/about"> about me </a> and my life as well as the projects I work on. </p>
+	<p>I'm a post-doc at UCLouvain university in Belgium. I work on distributed, secure and private-by-design systems. </p>
+	<p>At this website you can read more <a href="/about"> about me </a> and my latest projects. </p>
 </div><!-- /.blurb -->
+
+<p>Read my blog posts or subscribe to my <a href="/feed.xml">RSS feed</a>:</p>
+
+<ul class="posts">
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
