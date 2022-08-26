@@ -17,7 +17,8 @@ Every week Spotify creates two personalized playlists for me, namely **Discover 
 
 {% include image.html file="/assets/2022/08/veehk.png" description="Even with 7 followers you can be a verified artist." %}
 
-Let's investigate. **Veeh K**, if it's his real name, is new in town but he is already a verified artist. All of his 7 listeners come from US. There are also 3 followers that are hidden from public.
+Let's investigate. **Veeh K**, if it's his real name, is new in town but he is already a verified artist. He has produces 5 songs in total, but managed to collaborate with several known artists. All of the albums in his discography are singles. 
+All of his 7 listeners come from US, Spain and Germany. There are also 3 followers that are hidden from public.
 Overall seems like a legit artist account.
 
 {% include image.html file="/assets/2022/08/stats.png" description="Are these 7 monthly listeners even real?" %}
