@@ -38,8 +38,13 @@ ul.posts {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 20px auto 40px;
     font-size: 1.3em;
+    max-width: 980px;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+div.container {
+    max-width:980px;
 }
