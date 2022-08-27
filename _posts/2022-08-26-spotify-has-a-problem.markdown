@@ -11,7 +11,7 @@ Every week Spotify creates two personalized playlists for me, namely **Discover 
 
 <!-- ![A screenshot showing a weird track in Spotify playlist](/assets/2022/08/revvv.png 'A shitty track suggestion') -->
 
-{% include image.html file="/assets/2022/08/track.png" description="A shitty track suggestion." %}
+{% include image.html file="/assets/2022/08/track.png" description="Revvv by Veeh K, Sonya Belousova and Cleo Sol." %}
 
 ## Who the fuck is Veeh K?
 
