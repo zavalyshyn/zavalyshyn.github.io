@@ -3,7 +3,8 @@ body {
     max-width: 980px;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -17,24 +18,30 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color:deeppink;
+    /* color:deeppink; */
+	color: rgb(242, 51, 67);
     /* color:lightcoral; */
 
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
 }
 
 h2 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
 }
 
 p {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
+    /*font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
     font-size: 1.3em;
     line-height: 1.3em;
     color: #333;
@@ -46,7 +53,8 @@ footer {
 }
 
 ul.posts {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
     margin: 20px auto 40px;
     font-size: 1.3em;
     max-width: 980px;
@@ -70,4 +78,20 @@ span.image-caption {
     font-size: 1em; 
     display: inline-block;
     position: relative;
+}
+
+cite {
+    display: table-cell;
+    font: inherit;
+    padding: 0px 2px;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Cantarell,Ubuntu,roboto,noto,arial,sans-serif;
+}
+
+span.pub-author {
+    font-style: italic;
+}
+
+span.pub-title {
+    font-weight: bold;
 }
