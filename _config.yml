@@ -1,2 +1,8 @@
-name: Igor Zavalyshyn. Personal website
+#name: Igor Zavalyshyn. Personal website
 markdown: kramdown
+plugins:
+  - jekyll-feed
+title: Igor Zavalyshyn's Blog
+description: Welcome to my blog
+author: Igor Zavalyshyn
+
