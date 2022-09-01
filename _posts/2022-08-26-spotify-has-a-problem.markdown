@@ -7,6 +7,8 @@ categories: spotify
 
 **[UPDATE]** 5 days after this article was published the song in question has since been removed from Spotify. Was it due to platform's or artist's actions remains a mystery. What we know though is that in 5 days the artist managed to get up to 29228 montly listeners (that's a whopping 4175x increase from original 7 listeners). Based on various online calculators that number converts to something like $70 paid back to Veeh K by Spotify. Not much but definitely scales well with more tracks. The artist still has several other tracks with dubious collaborators. 
 
+**[UPDATE2]** 6 days after: Veeh K deleted all of his previous songs, but added a new one. The latter has no featured artists. Yet. Monthly listeners count is now 32095. 
+
 I use Spotify a lot. It helps me to concentrate on my work tasks (I have a playlist with carefully selected [trip-hop][trip-hop-playlist] tracks for that), to make my cooking less boring and, finally, to relax after a long day. 
 
 Every week Spotify creates two personalized playlists for me, namely **Discover Weekly** and **Release Radar**, with a selection of tracks from the artist I like or might like based on my music taste. Overall these playlists are great, especially the Release Radar one, since it lists all the new tracks from the artists I follow. But sometimes this very same playlist contains weird tracks that sound nothing like what I usually listen to. This comes as a surprise and I can't help wondering what a heck was that when switching to the next track. Just to give you some context here is what I'm talking about:
